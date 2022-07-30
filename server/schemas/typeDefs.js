@@ -26,7 +26,7 @@ type User {
   }
 
 type Book {
-    bookID: String
+    bookId: String
     authors: [String]
     description: String
     title: String
